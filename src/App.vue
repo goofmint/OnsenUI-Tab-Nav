@@ -109,7 +109,7 @@
         return this.tabs[this.activeIndex].label;
       }
     },
-    components: { homePage, settingsPage, newsPage }
+    components: { Home, settingsPage, newsPage }
   }
 </script>
 
